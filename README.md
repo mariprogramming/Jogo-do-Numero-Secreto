@@ -33,4 +33,4 @@ Toda vez que o jogo é iniciado, um novo número aleatório de 1 a 100 será sor
 
 Caso tenha gostado, entre em contato! 📫
 
-[![Gmail Badge](https://img.shields.io/badge/-mari3008rodrigue1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mari3008rodrigue1@gmail.com)](mailto:mari3008rodrigue1.com)
+[![Gmail Badge](https://img.shields.io/badge/-mari3008rodrigues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mari3008rodrigues@gmail.com)](mailto:mari3008rodrigues.com)
